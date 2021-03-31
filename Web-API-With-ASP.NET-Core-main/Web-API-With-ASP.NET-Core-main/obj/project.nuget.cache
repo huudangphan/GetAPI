@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "83wzj2o0if40GkumcSJXp6s1mazMPM/ZUUqrchbdALbbJyOEzLCRSS9YhrRVq4DeBvbpdXsffQ3eS/gUNeOzRw==",
+  "dgSpecHash": "IHakGTnJs6HY5amO8BQtBCihJ3GlW2K5E5c7dFsLeefQ111h07zSwzAfrYO+Uzyl8G6uEyKNHW2nXxXBnQz4HA==",
   "success": true,
-  "projectFilePath": "D:\\ThucTap\\TaoAPI\\TaoAPI-main (1)\\TaoAPI-main\\TaoAPI-main\\TaoAPI-main\\Web-API-With-ASP.NET-Core-main\\Web-API-With-ASP.NET-Core-main\\BookAPI.csproj",
+  "projectFilePath": "D:\\ThucTap\\GetAPI\\Web-API-With-ASP.NET-Core-main\\Web-API-With-ASP.NET-Core-main\\BookAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",
