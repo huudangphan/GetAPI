@@ -147,9 +147,6 @@ namespace GetAPI
                 
             }
             MessageBox.Show("Save success");
-
-
-
         }
 
        
@@ -188,10 +185,6 @@ namespace GetAPI
             this.Hide();
             f.ShowDialog();
             this.Show();
-
-
-
-
         }
 
         private void dtgvTKB_CellBeginEdit(object sender, DataGridViewCellCancelEventArgs e)
@@ -219,11 +212,14 @@ namespace GetAPI
 
         private void dtgvTKB_KeyDown(object sender, KeyEventArgs e)
         {
-            string id = dtgvTKB.Rows[dtgvTKB.CurrentRow.Index].Cells[0].Value.ToString();
+           
+           
 
             if (e.KeyData==Keys.Enter)
             {
+                
                 ModelLich lich = new ModelLich();
+                string id = dtgvTKB.Rows[dtgvTKB.CurrentRow.Index].Cells[0].Value.ToString();
                 int idNhap = Int32.Parse(id) + 1;
                 lich.id = idNhap.ToString();
                 lich.user_id = "";
@@ -231,18 +227,37 @@ namespace GetAPI
                 lich.viec = "";
                 lich.day = "";
                 Them(lich.day, lich.thoigian, lich.viec, lich.id);
-                loadData();                
-                                            
-                
+                loadData();
+
+
+
+
+
+
             }
             if(e.KeyData==Keys.Delete)
             {
+                string id = dtgvTKB.Rows[dtgvTKB.CurrentRow.Index].Cells[0].Value.ToString();
                 Xoa(id);
                 loadData();
             }    
            
         }
 
-        
+        private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            Random r = new Random();
+          
+            int i = r.Next(100, 10000);
+            ModelLich lich = new ModelLich();
+            lich.id = i.ToString();
+            lich.user_id = "";
+            lich.thoigian = "";
+            lich.viec = "";
+            lich.day = "";
+            Them(lich.day, lich.thoigian, lich.viec, lich.id);
+            loadData();
+
+        }
     }
 }

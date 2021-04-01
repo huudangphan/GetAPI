@@ -55,6 +55,7 @@ namespace GetAPI
         // Kiem tra cong viec da ton tai hay chua
         public static async Task<string> getidTKB(string userid,string id)
         {
+            #region a
             //var inputData = new Dictionary<string, string>
             //    {
 
@@ -63,6 +64,7 @@ namespace GetAPI
             //    };
 
             //var input = new FormUrlEncodedContent(inputData);
+            #endregion
             using (HttpClient client = new HttpClient())
             {
                 using (HttpResponseMessage res = await client.GetAsync("https://localhost:44375/api/CongViec" + "/" + userid + "/" + id))

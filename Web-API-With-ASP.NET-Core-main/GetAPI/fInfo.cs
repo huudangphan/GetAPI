@@ -66,6 +66,7 @@ namespace GetAPI
                 {
                     SuaAccount(pass);
                     MessageBox.Show("Edit sucess");
+                    this.Close();
                 }
                     
             }

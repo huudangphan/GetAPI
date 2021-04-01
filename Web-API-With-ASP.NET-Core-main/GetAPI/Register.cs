@@ -50,32 +50,29 @@ namespace GetAPI
             string pass = txtpass.Text;
             string pass2 = txtpass2.Text;
             string id = txtid.Text;
-            var check = await RestClient.PostLogin(user, pass);
-            var checkID = await RestClient.getid(id);
+            //var check = await RestClient.PostLogin(user, pass);
+            //var checkID = await RestClient.getid(id);
+            var checkr = await RestClient.PostLogin2(Int32.Parse(id), user, pass);
             if (pass!=pass2)
             {
                 MessageBox.Show("Confirm password false");
             }
             else
             {
-                if (check != "[]")
+                if (checkr != "[]")
                 {
                     MessageBox.Show("Username already exist ");
                 }
 
-                else
-                {
-                    if (checkID != "")
-                    {
-                        MessageBox.Show("Password 2 already exist ");
-                        MessageBox.Show(checkID);
-                    }
+                
+                    
                     else
                     {
                         Them(id, user, pass);
+                         MessageBox.Show("Register success");
                     }
 
-                }
+                
             }          
            
         }
