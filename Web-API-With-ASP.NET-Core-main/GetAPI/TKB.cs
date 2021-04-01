@@ -18,8 +18,7 @@ namespace GetAPI
     public partial class TKB : DevExpress.XtraBars.Ribbon.RibbonForm
     {
        
-        private Session sess;
-       
+        private Session sess;       
         Session Sess
         {
             get { return sess; }
@@ -28,10 +27,8 @@ namespace GetAPI
         public TKB(Session sess)
         {
             InitializeComponent();
-            this.sess = sess;
-            
-            loadData();
-            
+            this.sess = sess;            
+            loadData();            
         }
       
         public void loadData()
