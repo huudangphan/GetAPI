@@ -55,14 +55,14 @@ namespace GetAPI
         // Kiem tra cong viec da ton tai hay chua
         public static async Task<string> getidTKB(string userid,string id)
         {
-            var inputData = new Dictionary<string, string>
-                {
+            //var inputData = new Dictionary<string, string>
+            //    {
 
-                    {"user_id",userid},
-                    {"id",id }
-                };
+            //        {"user_id",userid},
+            //        {"id",id }
+            //    };
 
-            var input = new FormUrlEncodedContent(inputData);
+            //var input = new FormUrlEncodedContent(inputData);
             using (HttpClient client = new HttpClient())
             {
                 using (HttpResponseMessage res = await client.GetAsync("https://localhost:44375/api/CongViec" + "/" + userid + "/" + id))

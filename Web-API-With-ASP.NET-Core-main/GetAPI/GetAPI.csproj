@@ -148,6 +148,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Account.cs" />
+    <Compile Include="fInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fInfo.Designer.cs">
+      <DependentUpon>fInfo.cs</DependentUpon>
+    </Compile>
     <Compile Include="fLich.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -183,6 +189,9 @@
     <Compile Include="TKB.Designer.cs">
       <DependentUpon>TKB.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="fInfo.resx">
+      <DependentUpon>fInfo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="fLich.resx">
       <DependentUpon>fLich.cs</DependentUpon>
     </EmbeddedResource>

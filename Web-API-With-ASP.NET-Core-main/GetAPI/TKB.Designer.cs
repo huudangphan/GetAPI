@@ -39,6 +39,7 @@ namespace GetAPI
             this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPage2 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup4 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.ribbonPageGroup2 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonStatusBar = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
             this.dtgvTKB = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -46,8 +47,8 @@ namespace GetAPI
             this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.txtpass = new System.Windows.Forms.TextBox();
-            this.txtpass2 = new System.Windows.Forms.TextBox();
+            this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.barButtonItem3 = new DevExpress.XtraBars.BarButtonItem();
             ((System.ComponentModel.ISupportInitialize)(this.ribbon)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dtgvTKB)).BeginInit();
             this.SuspendLayout();
@@ -64,17 +65,18 @@ namespace GetAPI
             this.ribbon.SearchEditItem,
             this.barButtonItem1,
             this.barButtonItem2,
-            this.barButtonItem5});
+            this.barButtonItem5,
+            this.barButtonItem3});
             this.ribbon.Location = new System.Drawing.Point(0, 0);
             this.ribbon.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ribbon.MaxItemId = 9;
+            this.ribbon.MaxItemId = 10;
             this.ribbon.Name = "ribbon";
             this.ribbon.PageCategories.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageCategory[] {
             this.ribbonPageCategory1});
             this.ribbon.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1,
             this.ribbonPage2});
-            this.ribbon.Size = new System.Drawing.Size(841, 193);
+            this.ribbon.Size = new System.Drawing.Size(721, 158);
             this.ribbon.StatusBar = this.ribbonStatusBar;
             // 
             // barButtonItem1
@@ -94,7 +96,7 @@ namespace GetAPI
             // 
             // barButtonItem5
             // 
-            this.barButtonItem5.Caption = "Save Password";
+            this.barButtonItem5.Caption = "Info";
             this.barButtonItem5.Id = 8;
             this.barButtonItem5.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.ImageOptions.Image")));
             this.barButtonItem5.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.ImageOptions.LargeImage")));
@@ -109,7 +111,8 @@ namespace GetAPI
             // ribbonPage1
             // 
             this.ribbonPage1.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.ribbonPageGroup1});
+            this.ribbonPageGroup1,
+            this.ribbonPageGroup3});
             this.ribbonPage1.Name = "ribbonPage1";
             this.ribbonPage1.Text = "Thời khóa biểu";
             // 
@@ -121,7 +124,8 @@ namespace GetAPI
             // ribbonPage2
             // 
             this.ribbonPage2.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
-            this.ribbonPageGroup4});
+            this.ribbonPageGroup4,
+            this.ribbonPageGroup2});
             this.ribbonPage2.Name = "ribbonPage2";
             this.ribbonPage2.Text = "Infomation";
             // 
@@ -131,13 +135,18 @@ namespace GetAPI
             this.ribbonPageGroup4.Name = "ribbonPageGroup4";
             this.ribbonPageGroup4.Text = "ribbonPageGroup4";
             // 
+            // ribbonPageGroup2
+            // 
+            this.ribbonPageGroup2.Name = "ribbonPageGroup2";
+            this.ribbonPageGroup2.Text = "ribbonPageGroup2";
+            // 
             // ribbonStatusBar
             // 
-            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 483);
+            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 393);
             this.ribbonStatusBar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ribbonStatusBar.Name = "ribbonStatusBar";
             this.ribbonStatusBar.Ribbon = this.ribbon;
-            this.ribbonStatusBar.Size = new System.Drawing.Size(841, 30);
+            this.ribbonStatusBar.Size = new System.Drawing.Size(721, 24);
             // 
             // dtgvTKB
             // 
@@ -151,12 +160,12 @@ namespace GetAPI
             this.Column3,
             this.Column4,
             this.Column5});
-            this.dtgvTKB.Location = new System.Drawing.Point(1, 190);
+            this.dtgvTKB.Location = new System.Drawing.Point(1, 154);
             this.dtgvTKB.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.dtgvTKB.Name = "dtgvTKB";
             this.dtgvTKB.RowHeadersWidth = 51;
             this.dtgvTKB.RowTemplate.Height = 24;
-            this.dtgvTKB.Size = new System.Drawing.Size(840, 289);
+            this.dtgvTKB.Size = new System.Drawing.Size(720, 235);
             this.dtgvTKB.TabIndex = 2;
             this.dtgvTKB.CellBeginEdit += new System.Windows.Forms.DataGridViewCellCancelEventHandler(this.dtgvTKB_CellBeginEdit);
             this.dtgvTKB.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvTKB_CellClick);
@@ -203,27 +212,25 @@ namespace GetAPI
             this.Column5.MinimumWidth = 6;
             this.Column5.Name = "Column5";
             // 
-            // txtpass
+            // ribbonPageGroup3
             // 
-            this.txtpass.Location = new System.Drawing.Point(272, 87);
-            this.txtpass.Name = "txtpass";
-            this.txtpass.Size = new System.Drawing.Size(184, 23);
-            this.txtpass.TabIndex = 5;
+            this.ribbonPageGroup3.Name = "ribbonPageGroup3";
+            this.ribbonPageGroup3.Text = "ribbonPageGroup3";
             // 
-            // txtpass2
+            // barButtonItem3
             // 
-            this.txtpass2.Location = new System.Drawing.Point(272, 137);
-            this.txtpass2.Name = "txtpass2";
-            this.txtpass2.Size = new System.Drawing.Size(184, 23);
-            this.txtpass2.TabIndex = 6;
+            this.barButtonItem3.Caption = "Add";
+            this.barButtonItem3.Id = 9;
+            this.barButtonItem3.ImageOptions.Image = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.ImageOptions.Image")));
+            this.barButtonItem3.ImageOptions.LargeImage = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.ImageOptions.LargeImage")));
+            this.barButtonItem3.Name = "barButtonItem3";
+           
             // 
             // TKB
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(841, 513);
-            this.Controls.Add(this.txtpass2);
-            this.Controls.Add(this.txtpass);
+            this.ClientSize = new System.Drawing.Size(721, 417);
             this.Controls.Add(this.dtgvTKB);
             this.Controls.Add(this.ribbonStatusBar);
             this.Controls.Add(this.ribbon);
@@ -259,7 +266,8 @@ namespace GetAPI
         private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
-        private System.Windows.Forms.TextBox txtpass;
-        private System.Windows.Forms.TextBox txtpass2;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup2;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem3;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup3;
     }
 }

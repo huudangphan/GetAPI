@@ -98,27 +98,27 @@ namespace GetAPI
                 }
             }
         }
-        public void SuaAccount( string pass)
-        {
-            string id = sess.id;
-            sess.password = pass;
-            string putData = JsonConvert.SerializeObject(sess);
-            string strUrl = String.Format("https://localhost:44375/api/Account/" + id);
-            WebRequest request = WebRequest.Create(strUrl);
-            request.Method = "PUT";
-            request.ContentType = "application/json";
-            using (var streamWriter = new StreamWriter(request.GetRequestStream()))
-            {
-                streamWriter.Write(putData);
-                streamWriter.Flush();
-                streamWriter.Close();
-                var reponse = request.GetResponse();
-                using (var streamReader = new StreamReader(reponse.GetResponseStream()))
-                {
-                    var result = streamReader.ReadToEnd();
-                }
-            }
-        }
+        //public void SuaAccount( string pass)
+        //{
+        //    string id = sess.id;
+        //    sess.password = pass;
+        //    string putData = JsonConvert.SerializeObject(sess);
+        //    string strUrl = String.Format("https://localhost:44375/api/Account/" + id);
+        //    WebRequest request = WebRequest.Create(strUrl);
+        //    request.Method = "PUT";
+        //    request.ContentType = "application/json";
+        //    using (var streamWriter = new StreamWriter(request.GetRequestStream()))
+        //    {
+        //        streamWriter.Write(putData);
+        //        streamWriter.Flush();
+        //        streamWriter.Close();
+        //        var reponse = request.GetResponse();
+        //        using (var streamReader = new StreamReader(reponse.GetResponseStream()))
+        //        {
+        //            var result = streamReader.ReadToEnd();
+        //        }
+        //    }
+        //}
         private async void barButtonItem2_ItemClick(object sender, ItemClickEventArgs e)
         {
             string id, day, time, job;
@@ -144,11 +144,12 @@ namespace GetAPI
                 {
                     Sua(id, day, time, job);
                 }
-
+                
             }
             MessageBox.Show("Save success");
-            
-            
+
+
+
         }
 
        
@@ -182,17 +183,15 @@ namespace GetAPI
 
         private void barButtonItem5_ItemClick(object sender, ItemClickEventArgs e)
         {
-
-            string pass = txtpass.Text;
-            string pass2 = txtpass2.Text;
-            if (pass != pass2)
-                MessageBox.Show("Password must = confirm password");
-            else
-                SuaAccount(pass);
-            MessageBox.Show("Edit sucess");
-
-
+            fInfo f = new fInfo(sess);
             
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+
+
+
+
         }
 
         private void dtgvTKB_CellBeginEdit(object sender, DataGridViewCellCancelEventArgs e)
@@ -224,16 +223,16 @@ namespace GetAPI
 
             if (e.KeyData==Keys.Enter)
             {
-               
-
-                    int n = dtgvTKB.Rows.Add();
-                    dtgvTKB.Rows[n].Cells[0].Value = "1";
-                    dtgvTKB.Rows[n].Cells[1].Value = "1";
-                    dtgvTKB.Rows[n].Cells[2].Value = "1";
-                    dtgvTKB.Rows[n].Cells[3].Value = "1";
-                    dtgvTKB.Rows[n].Cells[4].Value = "1";
-
-                             
+                ModelLich lich = new ModelLich();
+                int idNhap = Int32.Parse(id) + 1;
+                lich.id = idNhap.ToString();
+                lich.user_id = "";
+                lich.thoigian = "";
+                lich.viec = "";
+                lich.day = "";
+                Them(lich.day, lich.thoigian, lich.viec, lich.id);
+                loadData();                
+                                            
                 
             }
             if(e.KeyData==Keys.Delete)
@@ -243,5 +242,7 @@ namespace GetAPI
             }    
            
         }
+
+        
     }
 }
