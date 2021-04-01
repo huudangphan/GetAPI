@@ -256,7 +256,7 @@ namespace GetAPI
             lich.viec = "";
             lich.day = "";
             Them(lich.day, lich.thoigian, lich.viec, lich.id);
-            loadData();
+            loadData(); 
 
         }
     }

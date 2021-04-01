@@ -55,7 +55,9 @@ namespace GetAPI
         private void btndangky_Click(object sender, EventArgs e)
         {
             Register r = new Register();
-            r.Show();
+            this.Hide();
+            r.ShowDialog();
+            this.Show();
         }
     }
 }
