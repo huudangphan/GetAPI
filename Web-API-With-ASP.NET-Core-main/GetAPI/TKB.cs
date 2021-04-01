@@ -11,12 +11,13 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.Odbc;
 
 namespace GetAPI
 {
     public partial class TKB : DevExpress.XtraBars.Ribbon.RibbonForm
     {
-        BindingSource list = new BindingSource();
+       
         private Session sess;
        
         Session Sess
@@ -41,7 +42,7 @@ namespace GetAPI
             {
                 var json = wc.DownloadString(baseUrl);
                 var data = JsonConvert.DeserializeObject<List<ModelLich>>(json);
-                list.DataSource = data;
+            
                 dtgvTKB.DataSource = data;               
 
             }            
