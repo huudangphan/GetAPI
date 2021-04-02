@@ -1,0 +1,1263 @@
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+C:\Users\Admin\OneDrive - Ho Chi Minh City University of Foreign Languages and Information Technology - HUFLIT\Desktop\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\ThucTap\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\TaoAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses
+D:\ThucTap\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Register.resources
+D:\TaoAPI\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Info.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Register.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\ThucTap\TaoAPI\TaoAPI-main (1)\TaoAPI-main\TaoAPI-main\TaoAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Register.resources
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\ThucTap\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Register.resources
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\GetAPI\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fInfo.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe.config
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.exe
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\GetAPI.pdb
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\BouncyCastle.Crypto.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Extensions.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Primitives.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Ubiety.Dns.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Zstandard.Net.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Images.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.pdb
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Google.Protobuf.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\K4os.Hash.xxHash.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\MySql.Data.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Newtonsoft.Json.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\Renci.SshNet.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Buffers.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Memory.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Numerics.Vectors.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fInfo.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Register.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.test.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CoreCompileInputs.cache
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
