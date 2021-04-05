@@ -91,8 +91,7 @@ namespace BookAPI.API_s
                 connection.Open();
                 command.ExecuteNonQuery();
             }
-        }
-        
+        }       
 
         public void DeleteSchedule(int id)
         {
