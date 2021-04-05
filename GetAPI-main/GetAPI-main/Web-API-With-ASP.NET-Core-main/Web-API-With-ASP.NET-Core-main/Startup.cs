@@ -31,16 +31,11 @@ namespace BookAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<AccountContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Schedule")));
-            
             services.AddMvc();
-
-
             //services.AddScoped<ICongViecRepository, CongViecRepository>();
             //services.AddDbContext<CongViecContext>(o => o.UseSqlite("Data source=schedule.db"));
             //services.AddScoped<IAccountRepository, AccountRepository>();
             //services.AddDbContext<AccountContext>(o => o.UseSqlite("Data source=account.db"));
-
-
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

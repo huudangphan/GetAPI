@@ -62,7 +62,7 @@ namespace GetAPI
                 }
             }
         }
-        public void ThemDongTrong( string userid, string day, string thoigian, string viec)
+        public void ThemDongTrong( string userid)
         {                    
             string strUrl = String.Format("https://localhost:44375/api/CongViec?userid=" + userid );
             WebRequest request = WebRequest.Create(strUrl);
@@ -118,7 +118,7 @@ namespace GetAPI
         private async void barButtonItem2_ItemClick(object sender, ItemClickEventArgs e)
         {
             string id, day, time, job;
-            string userid;          
+            string userid;        
 
             for (int i = 0; i < dtgvTKB.Rows.Count; i++)
             {
@@ -154,8 +154,7 @@ namespace GetAPI
                     var result = streamReader.ReadToEnd();
                 }
             }
-        }
-       
+        }      
 
         private void TKB_Load(object sender, EventArgs e)
         {
@@ -204,7 +203,7 @@ namespace GetAPI
                 lich.time = "";
                 lich.job = "";
                 lich.day = "";                
-                ThemDongTrong(lich.userID, lich.day, lich.time, lich.job);
+                ThemDongTrong(lich.userID);
                 loadData();
             }
             if(e.KeyData==Keys.Delete)
@@ -212,23 +211,19 @@ namespace GetAPI
                 string id = dtgvTKB.Rows[dtgvTKB.CurrentRow.Index].Cells[0].Value.ToString();
                 Xoa(id);
                 loadData();
-            }  
-           
+            }             
         }
 
         private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
         {
             string userid = dtgvTKB.Rows[1].Cells[1].Value.ToString();
             LichPost lich = new LichPost();
-
             lich.userID = userid;
             lich.time = "";
             lich.job = "";
             lich.day = "";
-            ThemDongTrong(lich.userID, lich.day, lich.time, lich.job);
-
+            ThemDongTrong(lich.userID);
             loadData();
-
         }
     }
 }

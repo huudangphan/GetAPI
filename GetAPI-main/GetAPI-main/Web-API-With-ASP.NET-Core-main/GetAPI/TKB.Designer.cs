@@ -77,7 +77,7 @@ namespace GetAPI
             this.ribbon.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.ribbonPage1,
             this.ribbonPage2});
-            this.ribbon.Size = new System.Drawing.Size(721, 158);
+            this.ribbon.Size = new System.Drawing.Size(1042, 305);
             this.ribbon.StatusBar = this.ribbonStatusBar;
             // 
             // barButtonItem1
@@ -158,11 +158,11 @@ namespace GetAPI
             // 
             // ribbonStatusBar
             // 
-            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 393);
+            this.ribbonStatusBar.Location = new System.Drawing.Point(0, 540);
             this.ribbonStatusBar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.ribbonStatusBar.Name = "ribbonStatusBar";
             this.ribbonStatusBar.Ribbon = this.ribbon;
-            this.ribbonStatusBar.Size = new System.Drawing.Size(721, 24);
+            this.ribbonStatusBar.Size = new System.Drawing.Size(1027, 24);
             // 
             // dtgvTKB
             // 
@@ -181,7 +181,7 @@ namespace GetAPI
             this.dtgvTKB.Name = "dtgvTKB";
             this.dtgvTKB.RowHeadersWidth = 51;
             this.dtgvTKB.RowTemplate.Height = 24;
-            this.dtgvTKB.Size = new System.Drawing.Size(720, 235);
+            this.dtgvTKB.Size = new System.Drawing.Size(1026, 382);
             this.dtgvTKB.TabIndex = 2;
             this.dtgvTKB.CellBeginEdit += new System.Windows.Forms.DataGridViewCellCancelEventHandler(this.dtgvTKB_CellBeginEdit);
             this.dtgvTKB.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgvTKB_CellClick);
@@ -232,7 +232,7 @@ namespace GetAPI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(721, 417);
+            this.ClientSize = new System.Drawing.Size(1027, 564);
             this.Controls.Add(this.dtgvTKB);
             this.Controls.Add(this.ribbonStatusBar);
             this.Controls.Add(this.ribbon);

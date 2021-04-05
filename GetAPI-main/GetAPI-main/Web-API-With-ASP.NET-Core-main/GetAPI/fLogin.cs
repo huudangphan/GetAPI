@@ -30,6 +30,7 @@ namespace GetAPI
             Session s = new Session();            
             s.username = username;
             s.password = password;
+           
             var response2 = await RestClient.PostLogin(username, password);
             
             if (response2 != "[]")
@@ -48,7 +49,9 @@ namespace GetAPI
         private void btndangnhap_Click(object sender, EventArgs e)
         {
             login();
+            
         }
+        
 
 
         private void btndangky_Click(object sender, EventArgs e)

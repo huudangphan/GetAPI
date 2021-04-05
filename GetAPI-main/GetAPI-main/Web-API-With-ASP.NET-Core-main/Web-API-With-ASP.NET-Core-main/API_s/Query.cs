@@ -49,15 +49,11 @@ namespace BookAPI.API_s
                     Console.WriteLine(ex.ToString());
                 }
             }
-
             return JsonConvert.SerializeObject(ds);
         }
         public string Login( string username, string password)
         {
-
-
             string query = "select * from Account acc where acc.username='" + username + "'and password='" + password+"'";
-
             ds = new DataTable();
             using (OdbcConnection connection = new OdbcConnection(conStr))
             {
@@ -66,15 +62,12 @@ namespace BookAPI.API_s
                 {
                     connection.Open();
                     adapter.Fill(ds);
-
                 }
                 catch (Exception ex)
                 {
-
                     Console.WriteLine(ex.ToString());
-                }
+                } 
             }
-
             return JsonConvert.SerializeObject(ds);
         }
         public void AddAccount(string username, string password)

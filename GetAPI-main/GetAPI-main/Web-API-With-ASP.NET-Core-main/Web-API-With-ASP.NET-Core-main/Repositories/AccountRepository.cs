@@ -26,7 +26,6 @@ namespace BookAPI.Repositories
             var accDelete = await _context.Account.FindAsync(id);
             _context.Account.Remove(accDelete);
             await _context.SaveChangesAsync();
-
         }
 
         public async Task<IEnumerable<Account>> Get()
@@ -57,10 +56,6 @@ namespace BookAPI.Repositories
 
         }
         
-        //public async Task<Account> Login(string username, string password)
-        //{
-            
-        //    return await _context.Account.FindAsync(new object[] { username, password });
-        //}
+
     }
 }
