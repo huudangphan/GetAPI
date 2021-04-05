@@ -1248,12 +1248,9 @@ D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debu
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fInfo.resources
-D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLich.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
-D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Form1.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Register.resources
-D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.test.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.TKB.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.GenerateResource.cache
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe.licenses

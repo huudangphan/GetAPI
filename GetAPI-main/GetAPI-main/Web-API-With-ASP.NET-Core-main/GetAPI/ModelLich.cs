@@ -13,5 +13,7 @@ namespace GetAPI
         public string day { get; set; }
         public string time { get; set; }
         public string job { get; set; }
+
+
     }
 }

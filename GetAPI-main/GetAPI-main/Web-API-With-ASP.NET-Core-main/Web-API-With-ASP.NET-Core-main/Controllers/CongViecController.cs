@@ -76,17 +76,18 @@ namespace BookAPI.Controllers
         {
             return s.GetAllSchedule();
         }
-        //[HttpGet("{id}/{userID}")]
-        //public string getSchedulebyiD(int id,int userid)
-        //{
-        //    return s.GetScheduleByID(id, userid);
-        //}
-        [HttpGet("{userID}")]
-        public string getScheduleByUserID(int userID)
+        
+        [HttpGet("{username}/{password}")]
+        public string getScheduleByUserID(string username,string password)
         {
-            return s.GetScheduleByUserID(userID);
+            return s.GetScheduleByUserID(username,password);
         }
-        [HttpPost("{userid}/{day}/{time}/{job}")]
+        [HttpGet("{id}")]
+        public string getScheduleByID(int id,int userID)
+        {
+            return s.GetScheduleByID(id, userID);
+        }
+        [HttpPost]
         public void addSchedule(int userid,string day,string time,string job)
         {
             s.AddSchedule(userid, day, time, job);

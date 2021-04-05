@@ -83,7 +83,7 @@ namespace GetAPI
             #endregion
             using (HttpClient client = new HttpClient())
             {
-                using (HttpResponseMessage res = await client.GetAsync("https://localhost:44375/api/CongViec" + "/" + userid + "/" + id))
+                using (HttpResponseMessage res = await client.GetAsync("https://localhost:44375/api/CongViec" + "/" + id + "?userid=" + userid))
                 {
                     res.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
                     using (HttpContent content = res.Content)

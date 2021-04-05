@@ -27,7 +27,7 @@ namespace GetAPI
             s.password = password;
             string postData = JsonConvert.SerializeObject(s);
 
-            string strUrl = String.Format("https://localhost:44375/api/Account");
+            string strUrl = String.Format("https://localhost:44375/api/Account?username="+username+"&password="+password);
             WebRequest request = WebRequest.Create(strUrl);
             request.Method = "POST";
             request.ContentType = "application/json";

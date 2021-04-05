@@ -93,17 +93,17 @@ namespace BookAPI.Controllers
         {
             return acc.GetAccountByID(id);
         }
-        [HttpGet("{username}/{password}/{id}")]
-        public string login(string username, string password ,int id)
+        [HttpGet("{username}/{password}")]
+        public string login(string username, string password)
         {
-            return acc.Login(username, password,id );
+            return acc.Login(username, password);
         }
         [HttpPost]
         public void AddAccount(string username, string password)
         {
             acc.AddAccount(username, password);
         }
-        [HttpPut("{username}/{password}")]
+        [HttpPut]
         public void updateAccount(string username, string password)
         {
             acc.UpdateAccount(username, password);

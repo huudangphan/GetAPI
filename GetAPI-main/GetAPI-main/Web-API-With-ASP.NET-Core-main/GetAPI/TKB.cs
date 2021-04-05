@@ -33,8 +33,8 @@ namespace GetAPI
       
         public void loadData()
         {
-            string id = sess.id;
-            string baseUrl = "https://localhost:44375/api/CongViec/" + id;
+            
+            string baseUrl = "https://localhost:44375/api/CongViec/"+sess.username+"/"+sess.password ;
             using (WebClient wc = new WebClient())
             {
                 var json = wc.DownloadString(baseUrl);
@@ -46,27 +46,15 @@ namespace GetAPI
            
 
         }
-        public void Them(string id, string day, string thoigian, string viec)
-        {
-            //ModelLich lich = new ModelLich();
-            LichPost lich = new LichPost();
+        public void Them(string userid, string day, string thoigian, string viec)
+        {            
             
-            // User Id da dang nhap
-
-            lich.userid = Int32.Parse(sess.id);
-            lich.day = day;
-            lich.time = thoigian;
-            lich.job = viec;
-            string postData = JsonConvert.SerializeObject(lich);
-            string strUrl = String.Format("https://localhost:44375/api/CongViec");
+            string strUrl = String.Format("https://localhost:44375/api/CongViec?userid=" + userid + "&day='" + day + "'&time='" + thoigian + "'&job='" + viec + "'");
             WebRequest request = WebRequest.Create(strUrl);
             request.Method = "POST";
             request.ContentType = "application/json";
             using (var streamWriter = new StreamWriter(request.GetRequestStream()))
-            {
-                streamWriter.Write(postData);
-                streamWriter.Flush();
-                streamWriter.Close();
+            {                
                 var response = request.GetResponse();
                 using (var streamReader = new StreamReader(response.GetResponseStream()))
                 {
@@ -74,26 +62,31 @@ namespace GetAPI
                 }
             }
         }
-        public void Sua(string id, string day, string thoigian, string viec)
+        public void ThemDongTrong( string userid, string day, string thoigian, string viec)
+        {                    
+            string strUrl = String.Format("https://localhost:44375/api/CongViec?userid=" + userid );
+            WebRequest request = WebRequest.Create(strUrl);
+            request.Method = "POST";
+            request.ContentType = "application/json";
+            using (var streamWriter = new StreamWriter(request.GetRequestStream()))
+            {               
+                var response = request.GetResponse();
+                using (var streamReader = new StreamReader(response.GetResponseStream()))
+                {
+                    var result = streamReader.ReadToEnd();
+                }
+            }
+        }
+        public void Sua(string id,string userid, string day, string thoigian, string viec)
         {
-            ModelLich lich = new ModelLich();
-            string userID = sess.id;
-            // User Id da dang nhap
-            lich.id = id;
-            lich.userID = userID;
-            lich.day = day;
-            lich.time = thoigian;
-            lich.job = viec;
-            string putData = JsonConvert.SerializeObject(lich);
-            string strUrl = String.Format("https://localhost:44375/api/CongViec/" + id);
+            
+                   
+            string strUrl = String.Format("https://localhost:44375/api/CongViec?id="+ id+"&userid=" + userid + "&day=" + day + "&time=" + thoigian + "&job=" + viec);
             WebRequest request = WebRequest.Create(strUrl);
             request.Method = "PUT";
             request.ContentType = "application/json";
             using (var streamWriter = new StreamWriter(request.GetRequestStream()))
-            {
-                streamWriter.Write(putData);
-                streamWriter.Flush();
-                streamWriter.Close();
+            {                
                 var reponse = request.GetResponse();
                 using (var streamReader = new StreamReader(reponse.GetResponseStream()))
                 {
@@ -124,51 +117,37 @@ namespace GetAPI
         //}
         private async void barButtonItem2_ItemClick(object sender, ItemClickEventArgs e)
         {
-            //string id, day, time, job;
-            //string userid = sess.id;
-            
-            //for(int i=0;i<dtgvTKB.Rows.Count;i++)
-            //{
+            string id, day, time, job;
+            string userid;          
 
-            //    id = dtgvTKB.Rows[i].Cells[0].Value.ToString();
-            //    day = dtgvTKB.Rows[i].Cells[2].Value.ToString();
-            //    time = dtgvTKB.Rows[i].Cells[3].Value.ToString();
-            //    job = dtgvTKB.Rows[i].Cells[4].Value.ToString();
-                
-               
-                
-            //    var response = await RestClient.getidTKB(userid, id);
-
-            //    if (response == "[]")
-            //    {
-            //        Them(id,day, time, job);
-            //    }
-            //    else
-            //    {
-            //        Sua(id, day, time, job);
-            //    }
-                
-            //}
-            Them("1", "av", "sd", "asd");
+            for (int i = 0; i < dtgvTKB.Rows.Count; i++)
+            {
+                id = dtgvTKB.Rows[i].Cells[0].Value.ToString();
+                day = dtgvTKB.Rows[i].Cells[2].Value.ToString();
+                time = dtgvTKB.Rows[i].Cells[3].Value.ToString();
+                job = dtgvTKB.Rows[i].Cells[4].Value.ToString();
+                userid= dtgvTKB.Rows[i].Cells[1].Value.ToString();
+                var response = await RestClient.getidTKB(userid, id);
+                if (response == "[]")
+                {
+                    Them(userid, day, time, job);
+                }
+                else
+                {
+                    Sua(id,userid, day, time, job);
+                }
+            }
             MessageBox.Show("Save success");
             loadData();
-        }
-
-       
+        }       
         public void Xoa(string id)
-        {
-            ModelLich lich = new ModelLich();
-            lich.id = id;            
-            string putData = JsonConvert.SerializeObject(lich);
+        {            
             string strUrl = String.Format("https://localhost:44375/api/CongViec/"+id);
             WebRequest request = WebRequest.Create(strUrl);
             request.Method = "DELETE";
             request.ContentType = "application/json";
             using (var streamWriter = new StreamWriter(request.GetRequestStream()))
-            {
-                streamWriter.Write(putData);
-                streamWriter.Flush();
-                streamWriter.Close();
+            {                
                 var reponse = request.GetResponse();
                 using (var streamReader = new StreamReader(reponse.GetResponseStream()))
                 {
@@ -217,47 +196,37 @@ namespace GetAPI
 
         private void dtgvTKB_KeyDown(object sender, KeyEventArgs e)
         {
-           
-           
-
+            string userid = dtgvTKB.Rows[1].Cells[1].Value.ToString();
             if (e.KeyData==Keys.Enter)
             {
-
                 LichPost lich = new LichPost();
-
-
-                lich.userid = Int32.Parse(sess.id);
-                lich.time = "a";
-                lich.job = "a";
-                lich.day = "a";
-                
-                Them("", lich.day, lich.time, lich.job);
+                lich.userID = userid;
+                lich.time = "";
+                lich.job = "";
+                lich.day = "";                
+                ThemDongTrong(lich.userID, lich.day, lich.time, lich.job);
                 loadData();
-
-
-
             }
             if(e.KeyData==Keys.Delete)
             {
                 string id = dtgvTKB.Rows[dtgvTKB.CurrentRow.Index].Cells[0].Value.ToString();
                 Xoa(id);
                 loadData();
-            }    
+            }  
            
         }
 
         private void barButtonItem4_ItemClick(object sender, ItemClickEventArgs e)
         {
-            Random r = new Random();
+            string userid = dtgvTKB.Rows[1].Cells[1].Value.ToString();
+            LichPost lich = new LichPost();
 
-            int i = r.Next(100, 10000);
-            ModelLich lich = new ModelLich();
-            lich.id = i.ToString();
-            lich.userID = "";
+            lich.userID = userid;
             lich.time = "";
             lich.job = "";
             lich.day = "";
-            Them(lich.id, lich.day, lich.time, lich.job);
+            ThemDongTrong(lich.userID, lich.day, lich.time, lich.job);
+
             loadData();
 
         }

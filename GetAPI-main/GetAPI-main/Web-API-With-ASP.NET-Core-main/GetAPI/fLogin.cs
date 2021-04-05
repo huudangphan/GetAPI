@@ -17,38 +17,32 @@ using System.Windows.Forms;
 namespace GetAPI
 {
     public partial class fLogin : Form
-    {
-        string baseUrl = "https://localhost:44375/api/Account";
+    {        
         public fLogin()
         {
             InitializeComponent();
         }
         public async void login()
         {
-            int id = Int32.Parse( txtid.Text);
+            
             string username = txtusername.Text;
             string password = txtpassword.Text;
-            Session s = new Session();
-            s.id = txtid.Text;
+            Session s = new Session();            
             s.username = username;
             s.password = password;
-
-            var response2 = await RestClient.PostLogin2( username, password,id);
+            var response2 = await RestClient.PostLogin(username, password);
             
             if (response2 != "[]")
             {
                 TKB f = new TKB(s);
                 this.Hide();
                 f.ShowDialog();
-                this.Show();
-                
-
+                this.Show();                
             }
             else
             {
                 MessageBox.Show("username or password invalid");
             }
-
         }
         
         private void btndangnhap_Click(object sender, EventArgs e)

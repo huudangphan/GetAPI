@@ -9,8 +9,8 @@ using System.Threading.Tasks;
 namespace BookAPI.API_s
 {
     public class Query
-    {
-        string conStr = @"Dsn=DNS";
+    {        
+        string conStr = "Dsn=post";
         DataTable ds;
         public string GetAccount()
         {
@@ -23,24 +23,18 @@ namespace BookAPI.API_s
                 {
                     connection.Open();
                     adapter.Fill(data);
-
                 }
                 catch (Exception ex)
                 {
-
                     Console.WriteLine(ex.ToString());
                 }
             }
 
             return JsonConvert.SerializeObject(data);
-
         }
         public string GetAccountByID(int id)
         {
-
-
             string query = "select * from Account acc where acc.id=" + id;
-
             ds = new DataTable();
             using (OdbcConnection connection = new OdbcConnection(conStr))
             {
@@ -49,22 +43,20 @@ namespace BookAPI.API_s
                 {
                     connection.Open();
                     adapter.Fill(ds);
-
                 }
                 catch (Exception ex)
                 {
-
                     Console.WriteLine(ex.ToString());
                 }
             }
 
             return JsonConvert.SerializeObject(ds);
         }
-        public string Login( string username, string password,int id)
+        public string Login( string username, string password)
         {
 
 
-            string query = "select * from Account acc where acc.username='" + username + "'and password='" + password+"'and id="+id;
+            string query = "select * from Account acc where acc.username='" + username + "'and password='" + password+"'";
 
             ds = new DataTable();
             using (OdbcConnection connection = new OdbcConnection(conStr))
@@ -89,7 +81,7 @@ namespace BookAPI.API_s
         {
 
 
-            string query = "insert into dbo.Account(username,password) values('" + username + "', '" + password + "')";
+            string query = "insert into Account(username,password) values('" + username + "', '" + password + "')";
 
             OdbcCommand command = new OdbcCommand(query);
 
@@ -116,7 +108,7 @@ namespace BookAPI.API_s
         {
 
 
-            string query = "update dbo.Account set password = '" + password + "' where username = '" + username + "'";
+            string query = "update Account set password = '" + password + "' where username = '" + username + "'";
 
             OdbcCommand command = new OdbcCommand(query);
 
