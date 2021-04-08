@@ -15,6 +15,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using BookAPI.API_s;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace BookAPI
 {
@@ -30,8 +31,10 @@ namespace BookAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AccountContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Schedule")));
+            services.AddDbContext<AccountContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Schedule")));  
             services.AddMvc();
+
+            
             //services.AddScoped<ICongViecRepository, CongViecRepository>();
             //services.AddDbContext<CongViecContext>(o => o.UseSqlite("Data source=schedule.db"));
             //services.AddScoped<IAccountRepository, AccountRepository>();
@@ -56,6 +59,7 @@ namespace BookAPI
             app.UseHttpsRedirection();
 
             app.UseRouting();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 

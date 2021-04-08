@@ -35,7 +35,9 @@ namespace GetAPI
             
             if (response2 != "[]")
             {
-                TKB f = new TKB(s);
+                //TKB f = new TKB(s);
+                ThoiKhoaBieu f = new ThoiKhoaBieu(s);
+
                 this.Hide();
                 f.ShowDialog();
                 this.Show();                

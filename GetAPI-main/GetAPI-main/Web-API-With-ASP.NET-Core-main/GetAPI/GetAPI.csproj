@@ -172,6 +172,12 @@
     </Compile>
     <Compile Include="RestClient.cs" />
     <Compile Include="Session.cs" />
+    <Compile Include="ThoiKhoaBieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThoiKhoaBieu.Designer.cs">
+      <DependentUpon>ThoiKhoaBieu.cs</DependentUpon>
+    </Compile>
     <Compile Include="TKB.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -197,6 +203,9 @@
     </Compile>
     <EmbeddedResource Include="Register.resx">
       <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThoiKhoaBieu.resx">
+      <DependentUpon>ThoiKhoaBieu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TKB.resx">
       <DependentUpon>TKB.cs</DependentUpon>

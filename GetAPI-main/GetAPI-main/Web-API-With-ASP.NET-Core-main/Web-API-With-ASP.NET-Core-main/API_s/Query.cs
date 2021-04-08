@@ -9,9 +9,26 @@ using System.Threading.Tasks;
 namespace BookAPI.API_s
 {
     public class Query
-    {        
+    {
+        //string conStr = "Dsn=post";
         string conStr = "Dsn=post";
         DataTable ds;
+        public void connect(string query)
+        {
+            using (OdbcConnection connection = new OdbcConnection(conStr))
+            {
+                OdbcDataAdapter adapter = new OdbcDataAdapter(query, connection);
+                try
+                {
+                    connection.Open();
+                    adapter.Fill(ds);
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                }
+            }
+        }
         public string GetAccount()
         {
             string query = "select * from Account";

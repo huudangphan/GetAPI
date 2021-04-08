@@ -1246,7 +1246,6 @@ D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debu
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
-D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fInfo.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.fLogin.resources
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.Properties.Resources.resources
@@ -1258,3 +1257,5 @@ D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debu
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csproj.CopyComplete
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.exe
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.pdb
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.csprojAssemblyReference.cache
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\GetAPI\obj\Debug\GetAPI.ThoiKhoaBieu.resources
