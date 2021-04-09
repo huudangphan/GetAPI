@@ -577,3 +577,4 @@ D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\Web-API-With-AS
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\IdentityServer4.Storage.dll
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\GetAPI\GetAPI-main\GetAPI-main\Web-API-With-ASP.NET-Core-main\Web-API-With-ASP.NET-Core-main\bin\Debug\net5.0\Npgsql.dll

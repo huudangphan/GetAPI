@@ -15,7 +15,7 @@ namespace GetAPI
     
     public static class RestClient
     {
-        private static readonly string baseURL= "https://localhost:44375/api/Account";
+        private static readonly string baseURL= "https://localhost:44375/api/AccountSecret";
         // lay toan bo du lieu cua account
         public static async Task<string> get()
         {
@@ -85,6 +85,7 @@ namespace GetAPI
             {
                 using (HttpResponseMessage res = await client.GetAsync("https://localhost:44375/api/CongViec" + "/" + id + "?userid=" + userid))
                 {
+
                     res.Content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
                     using (HttpContent content = res.Content)
                     {
@@ -104,12 +105,12 @@ namespace GetAPI
             {
                 using (HttpResponseMessage res = await client.GetAsync(baseURL + "/" + username + "/" + password))
                 {
-
+                    res.Headers.Add("APIKey", "MySecureAPIKey");
                     using (HttpContent content = res.Content)
                     {
                         string data = await content.ReadAsStringAsync();
                         if (data != null)
-                            return makeJson(data);
+                            return data;
                     }
                 }
             }

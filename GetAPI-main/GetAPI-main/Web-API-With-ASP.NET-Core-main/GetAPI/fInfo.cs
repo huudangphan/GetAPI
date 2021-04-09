@@ -32,20 +32,27 @@ namespace GetAPI
         
         public void SuaAccount(string pass)
         {
-            
-           
-            string strUrl = String.Format("https://localhost:44375/api/Account?username=" + sess.username + "&password=" + pass);
-            WebRequest request = WebRequest.Create(strUrl);
-            request.Method = "PUT";
-            request.ContentType = "application/json";
-            using (var streamWriter = new StreamWriter(request.GetRequestStream()))
-            {               
-                var reponse = request.GetResponse();
-                using (var streamReader = new StreamReader(reponse.GetResponseStream()))
+            try
+            {
+                string strUrl = String.Format("https://localhost:44375/api/AccountSecret?username=" + sess.username + "&password=" + pass);
+                WebRequest request = WebRequest.Create(strUrl);
+                request.Method = "PUT";
+                request.ContentType = "application/json";
+                request.Headers.Add("APIKey", "MySecureAPIKey");
+                using (var streamWriter = new StreamWriter(request.GetRequestStream()))
                 {
-                    var result = streamReader.ReadToEnd();
+                    var reponse = request.GetResponse();
+                    using (var streamReader = new StreamReader(reponse.GetResponseStream()))
+                    {
+                        var result = streamReader.ReadToEnd();
+                    }
                 }
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }          
+            
         }
 
         private async void button1_Click(object sender, EventArgs e)

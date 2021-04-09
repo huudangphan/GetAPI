@@ -78,6 +78,10 @@
               "target": "Package",
               "version": "[13.0.1, )"
             },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -85,6 +89,10 @@
             "System.Data.Odbc": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
             }
           },
           "imports": [

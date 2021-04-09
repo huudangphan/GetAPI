@@ -14,13 +14,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using BookAPI.API_s;
+//using BookAPI.API_s;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using BookAPI.Models;
+
 
 namespace BookAPI
 {
     public class Startup
     {
+      
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -31,14 +36,28 @@ namespace BookAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<AccountContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Schedule")));  
-            services.AddMvc();
+            services.AddScoped<ICongViecRepository, CongViecRepository>();
+            services.AddDbContext<CongViecContext>(o => o.UseSqlite("Data source=schedule.db"));
 
-            
-            //services.AddScoped<ICongViecRepository, CongViecRepository>();
-            //services.AddDbContext<CongViecContext>(o => o.UseSqlite("Data source=schedule.db"));
-            //services.AddScoped<IAccountRepository, AccountRepository>();
-            //services.AddDbContext<AccountContext>(o => o.UseSqlite("Data source=account.db"));
+            services.AddScoped<IAccountRepository, AccountRepository>();
+            services.AddDbContext<AccountContext>(o => o.UseSqlite("Data source=account.db"));
+
+            //services.AddDbContext<AccountContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Schedule")));
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = Configuration["Jwt:Issuer"],
+            ValidAudience = Configuration["Jwt:Issuer"],
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Jwt:Key"]))
+        };
+    });
+            services.AddMvc();            
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -60,6 +79,7 @@ namespace BookAPI
 
             app.UseRouting();
             app.UseAuthentication();
+          
 
             app.UseAuthorization();
 

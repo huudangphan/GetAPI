@@ -27,7 +27,7 @@ namespace GetAPI
             s.password = password;
             string postData = JsonConvert.SerializeObject(s);
 
-            string strUrl = String.Format("https://localhost:44375/api/Account?username="+username+"&password="+password);
+            string strUrl = String.Format("https://localhost:44375/api/AccountSecret?username=" + username+"&password="+password);
             WebRequest request = WebRequest.Create(strUrl);
             request.Method = "POST";
             request.ContentType = "application/json";
@@ -50,29 +50,7 @@ namespace GetAPI
             string pass = txtpass.Text;
             string pass2 = txtpass2.Text;
             string id = txtid.Text;
-            Them(user, pass);
-            //var checkr = await RestClient.PostLogin2(Int32.Parse(id), user, pass);
-            //if (pass!=pass2)
-            //{
-            //    MessageBox.Show("Confirm password false");
-            //}
-            //else
-            //{
-            //    if (checkr != "[]")
-            //    {
-            //        MessageBox.Show("Username already exist ");
-            //    }
-
-                
-                    
-            //        else
-            //        {
-            //            Them(id, user, pass);
-            //             MessageBox.Show("Register success");
-            //        }
-
-                
-            //}          
+            Them(user, pass);               
            
         }
 

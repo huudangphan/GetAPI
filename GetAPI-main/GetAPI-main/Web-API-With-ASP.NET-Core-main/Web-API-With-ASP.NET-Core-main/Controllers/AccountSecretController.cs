@@ -5,18 +5,21 @@ using System.Threading.Tasks;
 using BookAPI.API_s;
 using Microsoft.AspNetCore.Mvc;
 
+using Microsoft.Extensions.Options;
+
 namespace BookAPI.Controllers
 {
     [APIKey]
-    public class SecretController:ControllerBase
+    [Route("api/[controller]")]
+    [ApiController]
+    public class AccountSecretController:ControllerBase
     {
+        
         Query acc = new Query();
-        [HttpGet(template:"secret")]
+        [HttpGet(template: "secret")]
         public string getAccount()
         {
-
-            return acc.GetAccount();
-
+            return acc.GetAccount();            
         }
         [HttpGet("{id}")]
         public string getaccountByID(int id)
